@@ -33,3 +33,7 @@ print(chain.invoke("What kinds of equipment are in a chemistry laboratory?"))
 print(chain.invoke("What is Austrian School of Economics?"))
 print(chain.invoke("Why do people engage in sports?"))
 print(chain.invoke("What is the effect of body chemistry on exercise?"))
+
+print(chain.invoke("Por qué la gente hace deporte?"))
+print(chain.invoke("Qué tipo de equipamiento se encuentra en los laboratorios de química?"))
+

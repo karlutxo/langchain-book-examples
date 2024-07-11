@@ -1,0 +1,16 @@
+{
+  "PERSON": {
+    "Patrick Ferrell": "Slim Shady",
+    "David Wright": "John Doe"
+  },
+  "CREDIT_CARD": {
+    "3571341135737089": "4916 0387 9536 0861",
+    "3525816562749902": "4001 9192 5753 7193"
+  },
+  "PHONE_NUMBER": {
+    "001-562-667-8690": "313-666-7440"
+  },
+  "EMAIL_ADDRESS": {
+    "hfoster@example.org": "real.slim.shady@gmail.com"
+  }
+}
